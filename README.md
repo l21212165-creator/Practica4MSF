@@ -1,10 +1,10 @@
 [![Open in MATLAB Online]
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Práctica 4: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Liliana Fernanda Lugo Valenzuela [10510856]; l21212165@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Glóbulo rojo; Eritropoyetina; Transfusión Sanguínea; Modelo Matemático; Paciente.
 
 ## Lista de archivos incluidos en el repositorio
 
