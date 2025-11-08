@@ -2,9 +2,9 @@
 
 # Práctica 4: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Liliana Fernanda Lugo Valenzuela [10510856]; l21212165@tectijuana.edu.mx
+Liliana Fernanda Lugo Valenzuela [21212165]; l21212165@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
